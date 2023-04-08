@@ -1,0 +1,5 @@
+var DISQUSWIDGETS;
+
+if (typeof DISQUSWIDGETS != 'undefined') {
+    DISQUSWIDGETS.displayCount({"text":{"and":"and","comments":{"zero":" ","multiple":"{num}","one":"1"}},"counts":[{"id":"55114 https:\/\/www.quantamagazine.org\/?p=55114","comments":15}]});
+}
